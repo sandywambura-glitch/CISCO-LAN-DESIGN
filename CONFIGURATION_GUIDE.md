@@ -1,0 +1,1 @@
+Configuration Guide for Cisco Packet Tracer LAN Design including Router Setup, Switch Configuration, Wireless Access Points, End Devices, Firewall Setup, and Testing Procedures with detailed step-by-step instructions and CLI commands
